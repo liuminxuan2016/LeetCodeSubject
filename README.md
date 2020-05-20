@@ -1,2 +1,2 @@
 # LeetCodeSubject
-LeetCode题目，C++语言解法
+LeetCode题目，C++、Python语言解法
