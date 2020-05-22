@@ -13,6 +13,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1342. 将数字变成 0 的
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1281. 整数的各位积和之差", "1281. 整数的各位积和之差\1281. 整数的各位积和之差.vcxproj", "{2171E89D-B4AB-46DE-BC9F-3C72B38EA91B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1295. 统计位数为偶数的数字", "1295. 统计位数为偶数的数字\1295. 统计位数为偶数的数字.vcxproj", "{5C367C78-DDCF-4E58-BCB8-BA9229865680}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1365. 有多少小于当前数字的数字", "1365. 有多少小于当前数字的数字\1365. 有多少小于当前数字的数字.vcxproj", "{26B64409-5B55-43D0-B105-36C109D910BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "977. 有序数组的平方", "977. 有序数组的平方\977. 有序数组的平方.vcxproj", "{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +67,30 @@ Global
 		{2171E89D-B4AB-46DE-BC9F-3C72B38EA91B}.Release|x64.Build.0 = Release|x64
 		{2171E89D-B4AB-46DE-BC9F-3C72B38EA91B}.Release|x86.ActiveCfg = Release|Win32
 		{2171E89D-B4AB-46DE-BC9F-3C72B38EA91B}.Release|x86.Build.0 = Release|Win32
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Debug|x64.ActiveCfg = Debug|x64
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Debug|x64.Build.0 = Debug|x64
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Debug|x86.Build.0 = Debug|Win32
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Release|x64.ActiveCfg = Release|x64
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Release|x64.Build.0 = Release|x64
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Release|x86.ActiveCfg = Release|Win32
+		{5C367C78-DDCF-4E58-BCB8-BA9229865680}.Release|x86.Build.0 = Release|Win32
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Debug|x64.ActiveCfg = Debug|x64
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Debug|x64.Build.0 = Debug|x64
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Debug|x86.Build.0 = Debug|Win32
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Release|x64.ActiveCfg = Release|x64
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Release|x64.Build.0 = Release|x64
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Release|x86.ActiveCfg = Release|Win32
+		{26B64409-5B55-43D0-B105-36C109D910BA}.Release|x86.Build.0 = Release|Win32
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Debug|x64.ActiveCfg = Debug|x64
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Debug|x64.Build.0 = Debug|x64
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Debug|x86.Build.0 = Debug|Win32
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Release|x64.ActiveCfg = Release|x64
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Release|x64.Build.0 = Release|x64
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Release|x86.ActiveCfg = Release|Win32
+		{6A01B6EA-5F48-44F6-8DDF-6706AF937ADF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
