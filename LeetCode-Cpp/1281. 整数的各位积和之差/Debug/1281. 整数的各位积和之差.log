@@ -1,6 +1,1 @@
-﻿  solution_1.cpp
-h:\onedrive - stu.xust.edu.cn\code\leetcodesubject\leetcode-cpp\1281. 整数的各位积和之差\solution_1.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
-  solution_2.cpp
-  正在生成代码...
-solution_2.obj : error LNK2005: _main 已经在 solution_1.obj 中定义
-H:\OneDrive - stu.xust.edu.cn\Code\LeetCodeSubject\LeetCode-Cpp\Debug\1281. 整数的各位积和之差.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿

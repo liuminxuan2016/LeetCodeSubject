@@ -1,8 +1,1 @@
-﻿  main.cpp
-h:\onedrive - stu.xust.edu.cn\code\leetcodesubject\leetcode-cpp\977. 有序数组的平方\main.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
-h:\onedrive - stu.xust.edu.cn\code\leetcodesubject\leetcode-cpp\977. 有序数组的平方\main.cpp(10): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
-          with
-          [
-              _Ty=int
-          ]
-  977. 有序数组的平方.vcxproj -> H:\OneDrive - stu.xust.edu.cn\Code\LeetCodeSubject\LeetCode-Cpp\Debug\977. 有序数组的平方.exe
+﻿
